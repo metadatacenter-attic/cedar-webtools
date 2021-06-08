@@ -4,6 +4,9 @@ description: Reconcile the biomedical data in your spreadsheet with the standard
 filename: term-reconcile.md
 ---
 
+# Term Reconcile Formula for Google Sheets
+
+Reconcile the biomedical data in your spreadsheet with the standard vocabulary
 
 ## How to Use
 

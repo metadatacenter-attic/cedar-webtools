@@ -1,9 +1,12 @@
 --- 
 title: ASCT+B-to-CEDAR Exporter for Google Sheets
 description: Export the ASCT+B Table on Google Sheets to CEDAR instances
-layout: default
 filename: asctb-exporter.md
 ---
+
+# ASCT+B-to-CEDAR Exporter for Google Sheets
+
+Export the ASCT+B Table on Google Sheets to CEDAR instances
 
 ## How to Use
 
