@@ -1,6 +1,6 @@
 ## How to Use
 
-<img width="100%" alt="Example Illustration" src="https://user-images.githubusercontent.com/5062950/121103482-e3833680-c7b4-11eb-96c8-a8a3595687e6.png">
+<img width="100%" alt="Term Reconcile Formula" src="https://user-images.githubusercontent.com/5062950/121233699-bd5aa680-c847-11eb-90b4-8a814d7d97b6.png">
 
 The RECONCILE formula consists of 3 required parameters, namely, `input`, `ontology` and `properties`, and one optional `choice` parameter.
 - The `input` parameter refers to the sheet cell,
@@ -12,7 +12,8 @@ The RECONCILE formula consists of 3 required parameters, namely, `input`, `ontol
 
 If the formula couldn’t find an exact match, it will return a list of suggested terms. Each suggestion is associated with an index number.
 
-<img width="100%" alt="Example Interactive Mode Illustration" src="https://user-images.githubusercontent.com/5062950/121104225-6f499280-c7b6-11eb-9f7f-d4714da2dd78.png">
+![Interactive Mode](https://user-images.githubusercontent.com/5062950/121233749-d06d7680-c847-11eb-8bb9-9bf784e09981.png)
+
 
 Users can select one of the suggested items as their choice by updating the formula and adding the `choice` parameter with the selected index number. The example  below will select "cardiac pacemaker cell of sinoatrial node" as the preferred term. 
 
