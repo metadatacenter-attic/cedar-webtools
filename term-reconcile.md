@@ -1,7 +1,7 @@
 --- 
 title: Term Reconcile Formula for Google Sheets
 description: Reconcile the biomedical data in your spreadsheet with the standard vocabulary
-layout: default
+layout: template
 filename: term-reconcile.md
 ---
 
