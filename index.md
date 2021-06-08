@@ -1,5 +1,5 @@
 ---
 title: CEDAR WebTools
-layout: default
+layout: template
 filename: index.md
 --- 
