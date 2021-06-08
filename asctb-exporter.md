@@ -45,6 +45,8 @@ If you choose the "Do a dry-run" option, the add-on will validate the table by c
 
   <img width="100%" src="https://user-images.githubusercontent.com/5062950/121257688-d755b280-c862-11eb-80a5-72eb434aed32.png" alt="Getting the CEDAR Folder ID"/>
 
+---
+
 ## Privacy Policy
 
 **Last updated: June 08, 2021**
