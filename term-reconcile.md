@@ -37,6 +37,8 @@ Users can select one of the suggested items as their choice by updating the form
 
 Look at the top main menu and find the "Add-ons > Reconcile > Settings..." menu. On the dialog box, enter your BioPortal API Key. Please visit the [BioPortal documentation](https://www.bioontology.org/wiki/BioPortal_Help#Getting_an_API_key) to get the API key.
 
+---
+
 ## Privacy Policy
 
 **Last updated: June 08, 2021**
