@@ -49,7 +49,7 @@ For the purposes of this Privacy Policy:
 
 - **Application** means the software program provided by the Company downloaded by You on any electronic device, named Term Reconcile for Google Sheets
 
-- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Term Reconcile for Google Sheets.
+- **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to the Center for Expanded Data Annotation and Retrieval (or shortly, CEDAR).
 
 - **Country** refers to: California, United States
 
