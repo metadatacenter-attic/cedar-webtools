@@ -1,8 +1,6 @@
 theme: jekyll-theme-minimal
 title: CEDAR WebTools
 description: A collection of CEDAR Web-based tools.
-
-footer:
-  links:
-    - label: "Privacy Policy"
-      url: privacy-policy
+privacy:
+  label: "Privacy Policy"
+  url: privacy-policy
