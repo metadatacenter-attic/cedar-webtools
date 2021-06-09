@@ -17,7 +17,7 @@ In essence, We do not collect, store and use Your Personal data to provide and i
 ### Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
-#### Definitions
+### Definitions
 For the purposes of this Privacy Policy:
 
 - **Application** means the software program provided by the Developers downloaded by You on any electronic device.
@@ -45,7 +45,7 @@ The Developers may use Non-personal Data for reporting about the Developers’ A
 ## Information Sharing
 The Developers does not collect or store any Personal Data, and therefore, We do not sell, rent, or lease any individual’s personal information for marketing purposes. However, the Developers reserve the right to supply Non-personal Data to any organization into which the Developers may merge in the future or to which it may make any transfer in order to enable a third-party to continue part or all of its mission.
 
-### Children's Privacy
+## Children's Privacy
 Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please [contact Us](josef.hardi@gmail.com). If We become aware that We have collected Personal Data from anyone under the age of 13 with or without verification of parental consent, We take steps to remove that information from Our servers, as we refuse to process it.
 
 ## Links to Other Websites
