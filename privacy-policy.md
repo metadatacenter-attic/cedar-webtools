@@ -10,7 +10,7 @@ filename: privacy-policy.md
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Application and tells You about Your privacy rights and how the law protects You.
 
-In essence, We do not collect, store and use Your Personal data to provide and improve the Application. Our custom formulas and add-ons are developed purely using Google App Script JavaScript and they do not require Personal data to run.
+In essence, We do not collect, store and use Your Personal Data to provide and improve the Application. Our custom formulas and add-ons software are developed purely using Google App Script JavaScript and they do not require Personal Data to run. Do not leave any personal information as we refuse to process it.
 
 ## Interpretation and Definitions
 
