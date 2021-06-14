@@ -1,10 +1,10 @@
 --- 
-title: Term Reconcile Formula for Google Sheets
+title: Name Reconcile for Biomedical Terms
 description: Reconcile the biomedical data in your spreadsheet with the standard vocabulary
 filename: term-reconcile.md
 ---
 
-# Term Reconcile Formula for Google Sheets
+# Name Reconcile for Biomedical Terms
 
 Reconcile the biomedical data in your spreadsheet with the standard vocabulary
 
