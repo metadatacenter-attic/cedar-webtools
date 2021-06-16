@@ -33,6 +33,6 @@ Users can select one of the suggested items as their choice by updating the form
 
 ## Troubleshooting
 
-- I got an error message: "Enter the BioPortal API Key from the `Add-ons > Reconcile > Settings...` menu"
+- The formula returns `#ERROR!` and it complains about not getting a valid BioPortal API Key
 
-  Look at the top main menu and find the "Add-ons > Reconcile > Settings..." menu. On the dialog box, enter your BioPortal API Key. Please visit the [BioPortal documentation](https://www.bioontology.org/wiki/BioPortal_Help#Getting_an_API_key) to get the API key.
+  Go to "Add-ons > Name Reconcile for Biomedical Terms > Settings..." on the menu bar and on the pop-up dialog box, enter your BioPortal API Key. Please visit the [BioPortal documentation](https://www.bioontology.org/wiki/BioPortal_Help#Getting_an_API_key) on how to get the API key.
